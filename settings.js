@@ -47,17 +47,17 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.ownername = "Ayush" //nama kalian
+global.myweb = "wa.me/918602306506" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/@ayushmuzik1037" //bebas asal jan hapus
+global.myweb2 = "wa.me/918602306506" //bebas
+global.email = "ayushdeveloper001@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+"+ownernomer //nmr wa kalian
+global.premium = ['918602306506'] //premium user
+global.owner = ["918602306506"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "918602306506" // nomor wa kalian
+global.ownernomerr = "+918602306506"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
