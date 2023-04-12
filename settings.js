@@ -12,13 +12,13 @@ global.OpenAIKey = "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" //login
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'x4bbczOU6OZUO7f', //apabila link api eror, segera laporkan ke owner
 }
 
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'x4bbczOU6OZUO7f': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 24
