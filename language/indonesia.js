@@ -1779,15 +1779,8 @@ exports.listMenu2 = (prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
-│○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdiz
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ ZeeoneOfc
-│○ Penyedia Module
+│○ Lord Krishna
+│○ Ayush
 ╰❒ And All Support
     `
 }
@@ -1835,8 +1828,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Base : https://github.com/ayushdeveloper001
+Recode : wa.me/918602306506
 `
 }
 exports.tos = (ownernomer) => {
@@ -2514,15 +2507,8 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-│○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdiz
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ ZeeoneOfc
-│○ Penyedia Module
+│○ Lord Krishna
+│○ Ayush
 ╰❒ And All Support
 `
 }

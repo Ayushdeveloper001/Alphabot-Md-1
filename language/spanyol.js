@@ -1780,15 +1780,9 @@ exports.listMenu2 = (prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
-│○ My God
+│○ LORD KRISHNA
 │○ My Parents
-│○ Fatih A.
-│○ Ferdiz
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ ZeeoneOfc
-│○ Penyedia Module
+│○ Ayush
 ╰❒ And All Support
     `
 }
@@ -1805,7 +1799,7 @@ exports.rules = (prefix) => {
 ➡️ Puede verse afectado por la red, la señal, prohibido por Whatsapp y algunas razones.
 
 🗯️ ¿Dónde puedo obtener el script de este bot?
-➡️ Puede obtener este script en YouTube ZEEONE OFC
+➡️ Puede obtener este script en Ayush
 
 🗯️ ¿Puedo agregar al grupo?
 ➡️ Para eso depende del propietario del bot.
@@ -1836,8 +1830,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Base : https://github.com/Ayushdeveloper001/Alphabot-Md
+Recode : wa.me/918602306506
 `
 }
 exports.tos = (ownernomer) => {
@@ -2516,15 +2510,8 @@ return`╭─❒ 「 Chica al azar 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 Gracias 」 
-│○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdiz
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ ZeeoneOfc
-│○ Penyedia Module
+│○ Lord Krishna
+│○ Ayush
 ╰❒ And All Support
 `
 }
