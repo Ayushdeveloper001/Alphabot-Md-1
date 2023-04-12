@@ -1809,7 +1809,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube Ayush
+➡️ Script ini bisa kalian dapatkan di Ayush
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1849,9 +1849,9 @@ exports.tos = (ownernomer) => {
 *-------「 DONATE 」 -------*
 
 Hi bro ☺️ 
-You can support me to keep this bot up to date by donating
+ This is a free project so you don't have donate
 
-Any amount of your donation will be very meaningful 👍
+Use my bot and that would be a very meaningful donation👍
 Thanks!
 
 Contact person Owner:
