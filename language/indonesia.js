@@ -630,58 +630,58 @@ exports.KickAh = (gc) => {
 
 /////////
 exports.private = () =>{
-	return`Fitur hanya bisa di gunakan di private chat`
+	return`Only Available for Private chats`
 	}
 exports.wait = () => {
-    return `⏳ Mohon tunggu sebentar`
+    return `⏳ Wait`
 }
 exports.ok = () => {
     return `✅ Done.`
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `⚠️ Error contact wa.me/918602306506`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `⚠️ Link error`
 }
 exports.media = () => {
-    return `Silahkan pilih media yang ingin kamu download`
+    return `Please select the media you want to download`
 }
 exports.replyImg = (prefix, command) => {
-    return `Kirim/Reply Foto Dengan Caption ${prefix + command}`
+    return `Send/Reply Photos With Captions ${prefix + command}`
 }
 
 exports.wrongFormat = (prefix) => {
-    return `Format salah ❎ Silakan cek cara penggunaan di *${prefix}allmenu*.`
+    return `Incorrect format ❎ Please check how to use it *${prefix}allmenu*.`
 }
 
 exports.emptyMess = () => {
-    return `❎ Harap masukkan pesan yang ingin disampaikan!`
+    return `❎ Please enter the message you want to convey!`
 }
 
 exports.cmdNotFound = (cmd, prefix) => {
-    return `❎ Command *${cmd}* tidak terdaftar di *${prefix}allmenu*`
+    return `❎ Command *${cmd}* not registered in *${prefix}allmenu*`
 }
 
 exports.ownerOnly = () => {
-    return `❎ Command ini khusus Owner`
+    return `❎ This command is specific to the Owner`
 }
 
 exports.doneOwner = () => {
-    return `✅  ️Sudah selesai, Owner ~`
+    return `✅  ️It's done, owner ~`
 }
 
 exports.groupOnly = () => {
-    return `👥  Command ini hanya bisa digunakan di dalam grup!`
+    return `👥  This command can only be used within a group!`
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `🙅  This command can only be used by group admins!`
 }
 
 exports.nhFalse = () => {
-    return `Kode tidak valid!`
+    return `Invalid code!`
 }
 
 exports.listBlock = (blockNumber) => {
@@ -691,33 +691,33 @@ Total diblokir: *${blockNumber.length}* user\n`
 }
 
 exports.notAdmin = () => {
-    return `❎ User bukan seorang admin! ❎`
+    return `❎ The user is not an admin! ❎`
 }
 
 exports.adminAlready = () => {
-    return `❎ Tidak  dapat mem-promote user yang merupakan admin!`
+    return `❎ The user is admin`
 }
 
 exports.botNotAdmin = () => {
-    return `Jadikan bot sebagai admin terlebih dahulu! 🙏`
+    return `Make the bot an admin first! 🙏`
 }
 
 exports.received = (pushname) => {
     return `
-Halo ${pushname}!
-Terima kasih telah melapor, laporanmu akan kami segera terima.`
+Namaste ${pushname}!
+Thanks for reporting, We will receive your report soon.`
 }
 
 exports.videoLimit = () => {
-    return `Ukuran file terlalu besar!`
+    return `File size is too big!`
 }
 
 exports.notNum = (q) => {
-    return `"${q}", bukan angka!`
+    return `"${q}", not numbers!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
+	return`Namaste Mitr ${pushname} 👋 Welcome to ${salam} , 
+I am ${botname}, I am Alpha bot Beta Multi-Device Whatsapp by Ayush.
 `
 }
 exports.listMenu = (prefix) => {
@@ -747,7 +747,6 @@ exports.listMenu = (prefix) => {
 │○ ${prefix}gamemenu
 │○ ${prefix}soundmenu
 │○ ${prefix}logomenu
-│○ ${prefix}islammenu
 │○ ${prefix}asupanmenu
 │○ ${prefix}cecanmenu
 │○ ${prefix}primboncmd
