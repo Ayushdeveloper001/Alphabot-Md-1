@@ -1796,7 +1796,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di Ayush 
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1827,8 +1827,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/ayushdeveloper001
-Recode : wa.me/918602306506
+Base : private
+Recode : wa.me/16468338933
 `
 }
 exports.tos = (ownernomer) => {
@@ -1839,7 +1839,7 @@ Hai kak ☺️
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
-Thanks!
+Thanks
 
 Contact person Owner:
 wa.me/${ownernomer}
