@@ -28,7 +28,7 @@ global.firtsChat = false //send firts message to new user
 global.autoread = true // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = false // anti view once
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
@@ -46,24 +46,24 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
+global.botname = "Alphabot-Md" //namabot kalian
 global.ownername = "Ayush" //nama kalian
-global.myweb = "wa.me/918602306506" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ayushmuzik1037" //bebas asal jan hapus
-global.myweb2 = "wa.me/918602306506" //bebas
+global.myweb = "wa.me/16468338933" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/@akioisop" //bebas asal jan hapus
+global.myweb2 = "wa.me/16468338933" //bebas
 global.email = "ayushdeveloper001@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['918602306506'] //premium user
-global.owner = ["918602306506"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "918602306506" // nomor wa kalian
+global.premium = ['16468338933'] //premium user
+global.owner = ["16468338933"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "16468338933" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.png" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/hqdefault.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© ' + botname //sticker wm ubah
-global.author = 'Created By Alphabot ' + ownername //sticker wm ganti nama kalian
+global.author = 'Created By Alphabot  ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
