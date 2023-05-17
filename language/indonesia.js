@@ -1,5 +1,4 @@
-exports.DelSetWel = `Sukses delete set welcome di grup ini`
-exports.NoSetWel = `Belum ada set welcome di grup ini`
+Ayushexports.NoSetWel = `Belum ada set welcome di grup ini`
 exports.DelSetLeft = `Sukses delete set goodbye di grup ini`
 exports.NoSetLeft = `Belum ada set goodbye di grup ini`
 exports.doneSet = `Sudah di ubah sebelumnya`
@@ -279,31 +278,31 @@ exports.OffNsfw = () => {
     return `Fitur nsfw belum di aktifkan`
 }
 exports.CoverBanLol = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|jinx7`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} Ayush|jinx7`
 }
 exports.coverbannerlol = (style) => {
     return `*Heroes Yg Kamu Masukkan Salah*\n\n_Berikut list heroes yg benar, Total_ *${style}* _heroes_\n\n`
 }
 exports.pubglogomaker = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|women`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} Ayush|women`
 }
 exports.pubglogomaker_ = (style) => {
     return `*Style Yg Kamu Masukkan Salah*\n\n_Berikut list style yg benar, Total_ *${style}* _style_\n\n`
 }
 exports.colorfulpubg = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|color\nUsage: ${prefix + command} zeeone|gold`
+    return `Contoh: ${prefix + command} nama|color\nUsage: ${prefix + command} Ayush|gold`
 }
 exports.colorfulpubg_ = (style) => {
     return `*Color Yg Kamu Masukkan Salah*\n\n_Berikut list color yg benar, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|anubis`
+    return `Contoh: ${prefix + command} nama|style\nUsage: ${prefix + command} Ayush|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|allain`
+    return `Contoh: ${prefix + command} nama|heroes\nUsage: ${prefix + command} Ayush|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} zeeone|${style2}`
+    return `Contoh: ${prefix + command} nama|${style}\nUsage: ${prefix + command} Ayush|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -413,7 +412,7 @@ exports.TbJail = (prefix, command) => {
     return `Kirim/Reply Foto/Sticker Dengan Caption ${prefix + command}`
 }
 exports.TbRepo = (prefix, command) => {
-    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *zeeone-ofc* *Alphabot-Md* *v12*`
+    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *Ayush-ofc* *Alphabot-Md* *v12*`
 }
 exports.StalkIg = () => {
     return `Masukkan username`

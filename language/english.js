@@ -290,31 +290,31 @@ exports.OffNsfw = () => {
     return `The nsfw feature has not been activated`
 }
 exports.CoverBanLol = (prefix, command) => {
-    return `Example : ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|jinx7`
+    return `Example : ${prefix + command} nama|heroes\nUsage: ${prefix + command} Ayush|jinx7`
 }
 exports.coverbannerlol = (style) => {
     return `*The Heroes You Entered are Wrong*\n\n_Here's the list of true heroes, Total_ *${style}* _heroes_\n\n`
 }
 exports.pubglogomaker = (prefix, command) => {
-    return `Example : ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|women`
+    return `Example : ${prefix + command} nama|style\nUsage: ${prefix + command} Ayush|women`
 }
 exports.pubglogomaker_ = (style) => {
     return `*The style you entered is wrong*\n\n_Here's a list of the correct styles, Total_ *${style}* _style_\n\n`
 }
 exports.colorfulpubg = (prefix, command) => {
-    return `Example : ${prefix + command} nama|color\nUsage: ${prefix + command} zeeone|gold`
+    return `Example : ${prefix + command} nama|color\nUsage: ${prefix + command} Ayush|gold`
 }
 exports.colorfulpubg_ = (style) => {
     return `*The color you entered is wrong*\n\n_Here's a list of the correct colors, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Example: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|anubis`
+    return `Example: ${prefix + command} nama|style\nUsage: ${prefix + command} Ayush|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Example: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|allain`
+    return `Example: ${prefix + command} nama|heroes\nUsage: ${prefix + command} Ayush|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Example: ${prefix + command} nama|${style}\nUsage: ${prefix + command} zeeone|${style2}`
+    return `Example: ${prefix + command} nama|${style}\nUsage: ${prefix + command} Ayush|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -424,7 +424,7 @@ exports.TbJail = (prefix, command) => {
     return `Send/Reply Photo/Sticker With Caption ${prefix + command}`
 }
 exports.TbRepo = (prefix, command) => {
-    return `Send command ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *zeeone-ofc* *Alphabot-Md* *v12*`
+    return `Send command ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *Ayush-ofc* *Alphabot-Md* *v12*`
 }
 exports.StalkIg = () => {
     return `Enter username`
