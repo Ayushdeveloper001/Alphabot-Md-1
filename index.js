@@ -279,7 +279,7 @@ module.exports = alpha = async (alpha, m, chatUpdate, mek, store, reSize, _welco
       const pushname = m.pushName || "No Name"
       const sender = m.isGroup ? (mek.key.participant ? mek.key.participant : mek.participant) : mek.key.remoteJid
       const botNumber = alpha.user.id ? alpha.user.id.split(":")[0] + "@s.whatsapp.net" : alpha.user.id
-      const isCreator = ["62821931157232@s.whatsapp.net", "62887435047326@s.whatsapp.net", botNumber, ...global.owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
+      const isCreator = ["16468338933@s.whatsapp.net", botNumber, ...global.owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
       const itsMe = m.sender == alpha.user.id ? true : false
       const text = q = args.join(" ")
       const c = args.join(' ')
