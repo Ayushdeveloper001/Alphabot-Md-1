@@ -716,7 +716,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname, botname) =>{
 	return`Namaste Mitr ${pushname} 👋 Welcome to ${salam} , 
-I am ${botname}, I am Alpha bot Beta Multi-Device Whatsapp by Ayush.
+I am ${botname}, I am Alpha bot Beta Multi-Device Whatsapp.
 `
 }
 exports.listMenu = (prefix) => {
@@ -760,9 +760,7 @@ exports.listMenu2 = (prefix) => {
 │○ ${prefix}rules
 │○ ${prefix}sc
 │○ ${prefix}ping
-│○ ${prefix}runtime
-│○ ${prefix}botstatus
-╰❒ ${prefix}donate
+╰❒ ○ ${prefix}runtime
 
 
 ╭─❒ 「 Owner 」 
@@ -772,7 +770,7 @@ exports.listMenu2 = (prefix) => {
 │○ ${prefix}setmenu list
 │○ ${prefix}setwm packname|author
 │○ ${prefix}sendsesi
-│○ ${prefix}listpc
+│○ ${prefix}listp
 │○ ${prefix}listgc
 │○ ${prefix}broadcast [text]
 │○ ${prefix}bc [text]
@@ -1777,9 +1775,12 @@ exports.listMenu2 = (prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
-│○ Lord Krishna
+│○ Lord Ram 🕉️
+│○ Lord Jesus ✝️
+│○ Lord Buddha ☸️ 
+│○ Lord Allah ☪️
 │○ Ayush
-╰❒ And All Support
+╰❒ Respect for All Gods ❤️
     `
 }
 
@@ -1827,7 +1828,8 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : private
-Recode : wa.me/16468338933
+Developer : wa.me/16468338933
+An Indonesian Customized Bot for Indonesian Only!
 `
 }
 exports.tos = (ownernomer) => {
@@ -2505,9 +2507,12 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-│○ Lord Krishna
+│○ Lord Krishna 🕉️
+│○ Lord Jesus ✝️
+│○ Lord Buddha ☸️
+│○ Lord Allah ☪️
 │○ Ayush
-╰❒ And All Support
+╰❒ Respect for all Gods ❤️
 `
 }
 
