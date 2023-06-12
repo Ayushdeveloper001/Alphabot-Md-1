@@ -40,23 +40,23 @@ global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = english //change indonesia to english if you don't understand the language used by the bot
+global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 //global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
 // Other
 // Other
 global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "Ayush" //nama kalian
-global.myweb = "wa.me/16468338933" //bebas asal jan hapus
+global.ownername = "6285823658770" //nama kalian
+global.myweb = "wa.me/6285823658770" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@akioisop" //bebas asal jan hapus
-global.myweb2 = "wa.me/16468338933" //bebas
-global.email = "ayushdeveloper001@gmail.com" //bebas
+global.myweb2 = "wa.me/6285823658770" //bebas
+global.email = "@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['16468338933'] //premium user
-global.owner = ["16468338933"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "16468338933" // nomor wa kalian
+global.owner = ["6285823658770"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285823658770" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.png" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/hqdefault.jpg" // foto donasi di folder image
